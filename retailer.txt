@@ -1,0 +1,10 @@
+insert into retailer (id, title) values (1, 'Mayer, Hilpert and Schmidt');
+insert into retailer (id, title) values (2, 'Zboncak-Murray');
+insert into retailer (id, title) values (3, 'Keebler, O''Connell and Mraz');
+insert into retailer (id, title) values (4, 'Little, Fritsch and Gutkowski');
+insert into retailer (id, title) values (5, 'Kuvalis-MacGyver');
+insert into retailer (id, title) values (6, 'Adams, Prohaska and Kautzer');
+insert into retailer (id, title) values (7, 'Erdman, Schowalter and Swift');
+insert into retailer (id, title) values (8, 'Nicolas-Monahan');
+insert into retailer (id, title) values (9, 'Schaefer, Cummerata and Spinka');
+insert into retailer (id, title) values (10, 'Mann-Frami');

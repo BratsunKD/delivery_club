@@ -1,0 +1,5 @@
+INSERT INTO provider (id, name) VALUES (1, 'Tinkoff'),
+INSERT INTO provider (id, name) VALUES (2, 'yookassa'),
+INSERT INTO provider (id, name) VALUES (3, 'Sberbank'),
+INSERT INTO provider (id, name) VALUES (4, 'Alpha bank'),
+INSERT INTO provider (id, name) VALUES (5, 'QIWI');

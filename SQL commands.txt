@@ -1,0 +1,65 @@
+SELECT branch.title branch_title, 
+	   retailer.title retailer_title, 
+	   address.street, 
+	   address.house
+  FROM branch
+       INNER JOIN retailer
+	   ON branch.retailer_id = retailer.id
+	   
+	   INNER JOIN address
+	   ON branch.address_id = address.id;
+	   
+	   
+SELECT customer.name customer_name, 
+       customer.phone customer_phone,
+	   address.city,
+	   address.street
+  FROM customer
+       INNER JOIN address
+	   ON customer.address_id = address.id;
+	   
+	   
+ SELECT orders.customer_id customer_id,
+		customer.name customer_name,
+		orders.id order_id
+   FROM orders
+		 RIGHT JOIN customer
+		 ON orders.customer_id = customer.id
+ORDER BY customer_id;
+
+
+  SELECT provider_id,
+         MAX(total) total_max, 
+	     MIN(total) total_min,
+	     COUNT(total) total_count
+    FROM payment 
+GROUP BY provider_id;
+
+
+  SELECT provider_id,
+         MAX(total) total_max, 
+	     MIN(total) total_min,
+	     COUNT(total) total_count
+    FROM payment 
+GROUP BY provider_id 
+ORDER BY total_count DESC, 
+         total_min ASC, 
+		 total_max;
+		 
+		 
+  SELECT orders.courier_id,
+	     COUNT(orders.courier_id) total_orders
+    FROM orders 
+GROUP BY orders.courier_id
+ORDER BY orders.courier_id DESC;
+
+
+SELECT title, weight, price
+  FROM product
+ WHERE price IN (
+       SELECT price
+	    WHERE price >= 10.00
+	          AND price <= 250.50
+       );
+
+

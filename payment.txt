@@ -1,0 +1,259 @@
+insert into payment (id, total, date_created, status, provider_id) values (1, 50277.8, '2023-01-08 02:44:36',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (2, 8003.68, '2023-03-16 18:53:28',
+                                                                           'IN PROGRESS',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (3, 82294.31, '2023-08-15 08:34:09',
+                                                                           'IN PROGRESS',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (4, 35469.37, '2023-06-22 02:00:47',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (5, 64809.23, '2023-02-16 21:10:45',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (6, 98815.04, '2023-02-21 05:27:40',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (7, 56243.25, '2023-05-04 12:42:30',
+                                                                           'IN PROGRESS',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (8, 23936.03, '2023-04-21 21:27:38',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (9, 4697.59, '2023-10-21 14:26:39',
+                                                                           'IN PROGRESS',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (10, 62385.25, '2023-10-29 06:08:54',
+                                                                           'IN PROGRESS',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (11, 3054.59, '2023-07-27 08:17:27',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (12, 7649.58, '2022-12-16 14:50:27',
+                                                                           'IN PROGRESS',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (13, 14901.22, '2023-08-28 08:55:20',
+                                                                           'IN PROGRESS',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (14, 82478.35, '2023-09-24 09:51:20',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (15, 41120.22, '2022-12-03 17:53:23',
+                                                                           'IN PROGRESS',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (16, 58019.91, '2023-10-29 22:33:52',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (17, 27529.06, '2023-02-06 12:03:22',
+                                                                           'IN PROGRESS',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (18, 51807.4, '2023-11-22 18:38:47',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (19, 9660.99, '2023-06-17 03:18:40',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (20, 27554.2, '2023-05-27 01:18:04',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (21, 96206.6, '2023-11-02 16:27:01',
+                                                                           'IN PROGRESS',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (22, 10187.76, '2023-11-23 16:02:36',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (23, 81095.34, '2023-09-14 22:41:26',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (24, 61457.38, '2023-01-30 19:03:57',
+                                                                           'IN PROGRESS',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (25, 5729.56, '2023-09-26 16:26:11',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (26, 21574.0, '2023-02-02 13:49:01',
+                                                                           'IN PROGRESS',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (27, 7068.69, '2023-09-27 19:49:15',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (28, 46655.81, '2023-02-09 12:53:41',
+                                                                           'IN PROGRESS',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (29, 49949.41, '2023-03-12 23:21:10',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (30, 99393.4, '2023-11-01 15:34:10',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (31, 45072.52, '2023-11-05 21:37:15',
+                                                                           'IN PROGRESS',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (32, 89948.47, '2023-01-24 18:50:11',
+                                                                           'IN PROGRESS',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (33, 52652.11, '2023-07-20 03:13:13',
+                                                                           'IN PROGRESS',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (34, 21083.96, '2023-02-27 17:29:19',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (35, 33710.17, '2022-12-28 02:44:20',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (36, 70771.08, '2023-10-07 21:01:01',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (37, 27484.48, '2023-07-20 00:50:07',
+                                                                           'CANCELLED',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (38, 25129.24, '2023-02-16 03:42:15',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (39, 19843.57, '2022-12-27 09:50:09',
+                                                                           'CANCELLED',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (40, 86512.13, '2022-12-09 02:16:21',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (41, 79251.56, '2023-09-04 21:33:49',
+                                                                           'CANCELLED',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (42, 65064.03, '2023-08-14 17:40:56',
+                                                                           'CANCELLED',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (43, 25846.49, '2022-12-17 21:35:10',
+                                                                           'CANCELLED',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (44, 37400.78, '2023-11-14 12:01:14',
+                                                                           'CANCELLED',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (45, 12944.26, '2023-09-29 04:36:37',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (46, 90516.79, '2023-10-12 11:46:10',
+                                                                           'CANCELLED',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (47, 30887.6, '2023-08-04 21:31:12',
+                                                                           'CANCELLED',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (48, 78982.16, '2023-11-23 16:45:27',
+                                                                           'CANCELLED',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (49, 75236.96, '2022-12-30 10:28:26',
+                                                                           'CANCELLED',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (50, 23011.48, '2023-06-28 12:40:34',
+                                                                           'CANCELLED',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (51, 87638.31, '2023-11-25 11:12:32',
+                                                                           'CANCELLED',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (52, 98835.98, '2023-11-03 22:59:36',
+                                                                           'CANCELLED',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (53, 61281.9, '2023-10-10 18:01:43',
+                                                                           'CANCELLED',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (54, 75571.02, '2022-12-22 05:58:04',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (55, 73565.08, '2023-04-11 17:56:16',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (56, 36989.86, '2023-03-15 23:17:08',
+                                                                           'CANCELLED',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (57, 16464.32, '2023-06-08 00:30:26',
+                                                                           'CANCELLED',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (58, 67812.82, '2023-10-20 11:24:36',
+                                                                           'CANCELLED',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (59, 83274.14, '2023-03-30 04:14:18',
+                                                                           'CANCELLED',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (60, 95512.97, '2022-12-04 07:29:49',
+                                                                           'CANCELLED',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (61, 68647.13, '2023-04-05 02:16:51',
+                                                                           'CANCELLED',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (62, 84430.45, '2023-01-15 12:22:00',
+                                                                           'CANCELLED',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (63, 28360.82, '2023-07-10 14:40:39',
+                                                                           'CANCELLED',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (64, 54860.79, '2023-04-20 06:08:37',
+                                                                           'CANCELLED',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (65, 66592.32, '2022-12-28 13:50:39',
+                                                                           'CANCELLED',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (66, 15600.7, '2023-05-13 16:09:24',
+                                                                           'CANCELLED',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (67, 6554.39, '2023-08-07 17:41:05',
+                                                                           'CANCELLED',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (68, 81331.93, '2023-08-10 06:11:21', 'OK',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (69, 75857.15, '2023-04-21 21:16:16', 'OK',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (70, 94794.93, '2023-02-23 10:56:56', 'OK',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (71, 74471.07, '2022-11-30 01:27:14', 'OK',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (72, 75468.02, '2023-09-08 10:39:40', 'OK',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (73, 26266.11, '2023-06-14 03:23:04', 'OK',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (74, 30028.23, '2023-02-17 01:52:03', 'OK',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (75, 52647.03, '2023-05-13 09:19:46', 'OK',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (76, 69857.3, '2023-02-07 19:48:13', 'OK', 4);
+insert into payment (id, total, date_created, status, provider_id) values (77, 29090.81, '2023-11-09 07:50:38', 'OK',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (78, 84805.97, '2022-12-26 09:03:03', 'OK',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (79, 96048.1, '2023-02-28 21:43:40', 'OK', 4);
+insert into payment (id, total, date_created, status, provider_id) values (80, 96529.64, '2023-07-08 08:04:22', 'OK',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (81, 3473.0, '2023-03-04 09:56:04', 'OK', 5);
+insert into payment (id, total, date_created, status, provider_id) values (82, 39216.64, '2023-10-06 17:28:17', 'OK',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (83, 30952.1, '2023-03-23 14:03:46', 'OK', 5);
+insert into payment (id, total, date_created, status, provider_id) values (84, 82929.32, '2023-08-24 12:45:20', 'OK',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (85, 36511.88, '2023-09-17 09:15:16', 'OK',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (86, 6472.45, '2023-08-03 11:52:27', 'OK', 2);
+insert into payment (id, total, date_created, status, provider_id) values (87, 3187.3, '2023-03-29 00:41:33', 'OK', 1);
+insert into payment (id, total, date_created, status, provider_id) values (88, 68805.65, '2023-08-10 09:41:44', 'OK',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (89, 17291.27, '2022-12-24 16:58:21', 'OK',
+                                                                           2);
+insert into payment (id, total, date_created, status, provider_id) values (90, 5027.72, '2023-05-29 20:47:15', 'OK', 3);
+insert into payment (id, total, date_created, status, provider_id) values (91, 90202.59, '2023-10-22 01:51:29', 'OK',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (92, 98069.52, '2022-12-13 05:47:41', 'OK',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (93, 38199.89, '2023-07-06 22:23:24', 'OK',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (94, 37358.72, '2023-10-09 17:16:09', 'OK',
+                                                                           3);
+insert into payment (id, total, date_created, status, provider_id) values (95, 23505.71, '2023-07-02 06:13:36', 'OK',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (96, 24698.0, '2023-02-25 04:18:47', 'OK', 5);
+insert into payment (id, total, date_created, status, provider_id) values (97, 14660.46, '2023-02-08 03:41:40', 'OK',
+                                                                           5);
+insert into payment (id, total, date_created, status, provider_id) values (98, 72236.56, '2023-05-27 01:38:22', 'OK',
+                                                                           4);
+insert into payment (id, total, date_created, status, provider_id) values (99, 62790.99, '2023-04-26 15:38:04', 'OK',
+                                                                           1);
+insert into payment (id, total, date_created, status, provider_id) values (100, 62451.95, '2023-10-04 22:56:26', 'OK',
+                                                                           4);
